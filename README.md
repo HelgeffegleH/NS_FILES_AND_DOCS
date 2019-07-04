@@ -1,1 +1,1 @@
-# NS_FILES_AND_DOCS
+Documentation and executables for [HelgeffegleH/AutoHotkey_L/tree/NSs](https://github.com/HelgeffegleH/AutoHotkey_L/tree/NSs).
